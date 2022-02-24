@@ -1,0 +1,15 @@
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\Projeto de RPG.csproj.AssemblyReference.cache
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\Projeto de RPG.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\Projeto de RPG.AssemblyInfoInputs.cache
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\Projeto de RPG.AssemblyInfo.cs
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\Projeto de RPG.csproj.CoreCompileInputs.cache
+F:\Programação\Codigos\Projeto de RPG\bin\Debug\net6.0\Projeto de RPG.exe
+F:\Programação\Codigos\Projeto de RPG\bin\Debug\net6.0\Projeto de RPG.deps.json
+F:\Programação\Codigos\Projeto de RPG\bin\Debug\net6.0\Projeto de RPG.runtimeconfig.json
+F:\Programação\Codigos\Projeto de RPG\bin\Debug\net6.0\Projeto de RPG.dll
+F:\Programação\Codigos\Projeto de RPG\bin\Debug\net6.0\Projeto de RPG.pdb
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\Projeto de RPG.dll
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\refint\Projeto de RPG.dll
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\Projeto de RPG.pdb
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\Projeto de RPG.genruntimeconfig.cache
+F:\Programação\Codigos\Projeto de RPG\obj\Debug\net6.0\ref\Projeto de RPG.dll
